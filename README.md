@@ -2,7 +2,7 @@
 ## Projects Overview
 
 ## Project 1 
-Explore Weather Trends: 
+### Explore Weather Trends: 
 Analyzed local and global temperature data. 
 
 
